@@ -113,3 +113,27 @@ We have implemented rules and systems which increase the longevity of the Earth 
 Scamming players is not allowed, this means you must stay true to your word when making agreements. Purposely being dishonest or intentionally leaving out details. Selling renamed items in an attempt to make them look like real valueable items is also forbidden. Obvious joke items, however, are permitted. Examples of an acceptable renamed items are bottles of water sold for 3 gold marked as "Holy Water". An unacceptable item is a tripwire hook marked as a "Vote Key" being sold for 5k.
 - 1st offence : Balance wipe and a temporary ban (Duration may vary)
 - 2nd offence : Balance wipe and a permanent ban.
+
+---
+
+##### 15. Redstone Machine and Automation Rules.
+Redstone machines and automatic farms are a complicated subject, due to this we will be listing just about every type of machine and their legality. Obviously we cannot clarify on every type so please contact a member of staff if you're unsure of a contraptions legality before building it.
+
+- Any and all machines built with the intention of causing lag are prohibited.
+- Machines that are made to bypass vanilla game mechanics are banned (Bedrock Breakers).
+- You may not build 0-tick farms or duping mechanisms.
+- Semi-automatic redstone farms are allowed. This means it must either automatically plant **or** harvest crops. It cannot do both.
+- Mob grinders that use minimal redstone are fine (Iron golem farms and grinders that use spawners).
+- Automatic smelting and item sorting systems are legal.
+- All AFK machines are forbidden (Auto fishers)
+- Setups to bypass the AFk mechanic are not allowed, even if they don't use redstone (AFK pools or macros/scripts).
+- Villager breeders/farms are allowed.
+- Don't run high frequency clocks, all machines that operate on one must have an "off" switch.
+- Do not leave your machines running if you are AFK or not in the area for extended amounts of time.
+- Keep mob farms limited to 1 per mob type.
+- Farms that utilise excessive entity cramming are also disallowed.
+
+Any machines that are found to be causing an unnatural or unnecessary amount of lag, even if unintended, may be deactivated by staff.
+
+- 1st offence : Warning and the deactivation of your machine.
+- 2nd offence : Highly situational and up to staff discretion. 
