@@ -23,6 +23,7 @@ Every drink has an associated "alcohol" value, This varies depending on the type
 - Vomiting.
 - Losing consciousness (disconnecting) and troubles logging back on.
 - Waking up in strange and unfamiliar places when logging back in later after leaving drunk.
+- Messages sent to chat will be distorted the more drunk you get.
 
 ## Sobering Up
 You automatically begin to sober after drinking but can speed up the process by eating bread or drinking milk.
