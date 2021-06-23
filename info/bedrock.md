@@ -5,8 +5,8 @@ order: 6
 ---
 # Introduction
 United Lands is open to everyone who plays Minecraft, both Java and Bedrock accounts can join the server. In this tutorial we will explain how to connect to the server using a Bedrock account as it's not as straighforward as a regular Java join.
-We are aware of some issues that we cannot solve due to the nature of Bedrock we cannot fix until Mojang themselves do. These include but are not limited to:
-- When warping the GUI will not close until you've teleported.
+We are aware of some issues that we cannot solve due to the nature of Bedrock so we cannot fix them until Mojang themselves do. These include but are not limited to:
+- When warping, the GUI will not close until you've teleported.
 - Gradients not working due to Hex values being unsupported. 
 - GUI's looking really weird as glass panes and player heads look different than they do in Java.
 - Invisible item frames are visible as they do not currently exist in Bedrock edition.
