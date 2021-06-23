@@ -12,5 +12,5 @@ The bulk of jobs information is at Spawn, but you are able to use `/jobs browse`
 ### Voting
 Voting is a great way to gain money and experience. Once a day, use `/vote` and then you can vote on each site. You earn a Vote Key from each website, and these keys let you access the Vote Crate at Spawn, where you can redeem the keys for prizes! Voting is an amazing way to help grow the server too, so make sure to vote every day so we can reach more and more people.
 
-### Auction House
-To put items up for sale, use `/ah` to access the AuctionHouse. Here you can see items that are currently up for sale and for how much. This is a good way to get an understanding of pricing and what items are in demand. When you are ready to sell just hold the item in your hand and do `/ah sell [Price] [Amount]`. Bought items are contained in a special enderchest at the bottom right of `/ah`, here you can retrieve any items purchased. Listings are temporary as to avoid clogging up the market. Items expire after 2 days and you can similarly retrieve them from the chest at the bottom left corner of the auctionhouse.
+### Market Place
+To put items up for sale, use `/mp` to access the Market Place. Here you can see items that are currently up for sale and for how much. This is a good way to get an understanding of pricing and what items are in demand. When you are ready to sell just hold the item in your hand and do `/mp sell [Price] [Amount]`.
