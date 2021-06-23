@@ -22,3 +22,13 @@ All towny costs are listed at `/towny prices`. If you are still unsure of someth
 
 ### Chat
 Towny allows the use of several chat channels, on United Lands chat has been broken up into: Global chat (Everyone), Local chat (People within 100 blocks of you), Town chat (People in your town) and Nation chat (People in your nation). You can swap between these channels at will with `/gc`, `/lc`, `/tc` and `/nc` respectively. Remember to follow the rules of each channel.
+
+### Ranks
+Within a town you can be granted various ranks that come with specific permissions. Being granted a rank is a high privilege and you should try your best to fill the role adequetely. Below is a list of ranks and the permissions they come with. Ranks can be given to residents with the command `/t rank add [Username] [Rank]`.
+
+- **Co-Mayor**: Can do everything the Mayor can except disband the town.
+- **Assistant**: Can manage land, add and kick residents, build anywhere and manage the towns jails.
+- **Builder**: Can build anywhere in the town regardless of plot permissions.
+- **Banker**: Can deposit and withdraw money as well as seeing the town's financial history.
+- **Guard**: Can manage jail plots as well as assigning and arresting outlaws.
+- **Noble** Exempt from taxes.
