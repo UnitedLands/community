@@ -73,6 +73,8 @@ Strictly no alternate accounts are allowed. If you have multiple people on the s
 - 1st offence : Warning.
 - 2nd offence : Permanent IP ban.
 
+With the introduction of the Bedrock/Java cross-play feature onto the server we'd like to talk about one exception to the rule: **Java players may register one alternate Bedrock account for use when they're unable to log in on their regular account** (or vice versa). For example, you can use your mobile Bedrock account to play on the server if you're unable to reach your PC to play Java edition. This means you can play on one or the other, but not both at the same time. If both registered accounts are online at the same time without prior explanation the alternate account will be banned. To register yourself an alternate account please create an `#other-ticket` on the Discord server.
+
 ---
 
 ##### 10. No idolising or excessive referencing to extremist ideologies.
@@ -128,7 +130,7 @@ Redstone machines and automatic farms are a complicated subject, due to this we 
 - All AFK machines are forbidden (Auto fishers)
 - Setups to bypass the AFk mechanic are not allowed, even if they don't use redstone (AFK pools or macros/scripts).
 - Villager breeders/farms are allowed.
-- Don't run high frequency clocks, all machines that operate on one must have an "off" switch.
+- Don't run fast pulsing redstone clocks at all. 
 - Do not leave your machines running if you are AFK or not in the area for extended amounts of time.
 - Keep mob farms limited to 1 per mob type.
 - Farms that utilise excessive entity cramming are also disallowed.
