@@ -1,6 +1,6 @@
 ---
-title: Making Money
-description: Guide for new players on how to start making money
+title: Brewing
+description: Guide for new players on how to start making alcohol
 order: 5
 ---
 # Brewing
