@@ -17,7 +17,7 @@ We are aware of some issues that we cannot solve due to the nature of Bedrock so
 Go to the servers menu and add a new server. Enter `play.unitedlands.org` as the server address and `19132` as the port. 
 
 ## Playstation 4, Xbox One and Switch
-When connecting with a PS4 Bedrock account you must use the IP `play.unitedlands.org:19132`. The first step depends on what device you own:
+When connecting with a console Bedrock account you must use the IP `play.unitedlands.org:19132`. The first step depends on what device you own:
 
 **iOS**: Download `Bedrock Together` and enter the IP and Port. From there you can connect to the server using your Friends tab.
 
