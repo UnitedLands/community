@@ -13,7 +13,7 @@ A rare oak tree varient that grows enchanted golden apples! These trees do not r
 A spruce tree variant that drops pine cones. These pine cones can be used as projectiles to throw at enemies and deal some damage. 
 
 ## Mango Tree
-A jungle tree variant that drops mangoes. Mangoes can be eaten to restore hunger.
+A jungle tree variant that drops mangoes. Mangoes can be eaten to restore hunger and give the Haste I effect.
 
 ## Fungal Birch Tree
 A birch tree overgrown with mushrooms. Consume the new "bracket mushrooms" that fall from the logs to heal a few hearts and a tiny amount of hunger.
