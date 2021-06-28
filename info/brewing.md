@@ -26,7 +26,7 @@ Every drink has an associated "alcohol" value, This varies depending on the type
 - Messages sent to chat will be distorted the more drunk you get.
 
 ## Sobering Up
-You automatically begin to sober after drinking but can speed up the process by eating bread or drinking milk.
+You automatically begin to sober after drinking but can speed up the process by eating bread or drinking milk. Eating a golden apple instantly removes all drunk effects.
 
 ## List of Alcohols
 - Absinthe
