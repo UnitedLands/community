@@ -4,10 +4,10 @@ description: Index for all of United Lands' custom items and their function.
 order: 7
 ---
 # Trees
-To regrow these trees obtain saplings that drop from their decaying leaves.
+To regrow these trees, obtain saplings that drop from their decaying leaves.
 
 ## Ancient Oak
-A rare oak tree varient that grows enchanted golden apples! These trees do not reproduce and the only way to obtain it's seeds are from the vote crate.
+A rare oak tree varient that grows enchanted golden apples! These trees do not reproduce and the only way to obtain its seeds are from the vote crate.
 
 ## Pine Tree
 A spruce tree variant that drops pine cones. These pine cones can be used as projectiles to throw at enemies and deal some damage. 
@@ -29,4 +29,4 @@ Craft 5 wheat in the shape of a helmet to make a croissant. Restores as much hun
 # Tools
 
 ## Landscaping Kit
-New tool that allows you to change the biome of the chunk you select. To use the kit, stand in the chunk you'd like to change and `right click`. To open the biome selector  `shift-right-click`. Currently available biomes are: Forest, Jungle, Savanna, Snowy Taiga, Swamp, Deserts, and Plains. More can be added upon player request. Each use takes some durability. You can only change the biome in your own towns claim if you have the required permissions (Mayor, co-mayor, assistant, builder town rank). Craft a landscaping kit with x. 
+New tool that allows you to change the biome of the chunk you select. To use the kit, stand in the chunk you'd like to change and `right click`. To open the biome selector  `shift-right-click`. Currently available biomes are: Forest, Jungle, Savannah, Snowy Taiga, Swamp, Deserts, and Plains. More can be added upon player request. You can only change the biome in your own town's claim if you have the required permissions (Mayor, co-mayor, assistant, builder town rank). Craft a landscaping kit with x. 
