@@ -10,6 +10,8 @@ We are aware of some issues that we cannot solve due to the nature of Bedrock so
 - Gradients not working due to Hex values being unsupported. 
 - GUI's looking really weird as glass panes and player heads look different than they do in Java.
 - Invisible item frames are visible as they do not currently exist in Bedrock edition.
+- Higher ping.
+- Custom items not showing custom textures.
 
 **You can join using any Bedrock account but not all platforms are supported. We can only provide support for systems that we have tested ourselves.**
 
@@ -21,6 +23,6 @@ When connecting with a console Bedrock account you must use the IP `play.unitedl
 
 **iOS**: Download `Bedrock Together` and enter the IP and Port. From there you can connect to the server using your Friends tab.
 
-**Android**: Download `GeyserMC Android App` and select `LAN Proxy / Join a Bedrock Server`. Enter the IP and Port then join the server from your Friends tab.
+**Android**: Make sure both youur phone and console are on the same network. Download `MC Server Connector` and enter the IP and Port. Select `Start Server` and watch through the entire advert. United Lands should now appear at the bottom of your Friends tab on the console as a LAN server.
 
 **PC**: Download and set up `Phantom` on your PC, then join from the Friends tab. Phantom is a command line application so it works through your command prompt (Windows) or terminal (macOS / Linux). Once you have the command line open, navigate to where you keep Phantom, in this example it is in the Downloads folder. Run the command `cd Downloads` to access it. from there you can type `phantom-[your OS] play.unitedlands.org:19132` - if done correctly you'll see a series of pings going between Phantom and the server. From here you can connect to the server using your Friends tab.
