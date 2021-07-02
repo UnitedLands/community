@@ -147,6 +147,8 @@ You are required to allow players access to their grave after you kill them. Blo
 - 2nd offence : Temporary ban. (Duration may vary)
 - 3rd offence : Permanent ban.
 
+---
+
 ##### 17. No bypassing PvP toggles.
 Players who have their PvP set to off are off limits for any sort of hostile interaction. This includes but is not limited to: Setting them on fire, pushing them in or putting lava under them or knocking them off a high ledge. 
 - 1st offence : Warning.
