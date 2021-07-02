@@ -136,6 +136,21 @@ Redstone machines and automatic farms are a complicated subject, due to this we 
 - Farms that utilise excessive entity cramming are also disallowed.
 
 Any machines that are found to be causing an unnatural or unnecessary amount of lag, even if unintended, may be deactivated by staff.
-
 - 1st offence : Warning and the deactivation of your machine.
 - 2nd offence : Highly situational and up to staff discretion. 
+
+---
+
+##### 16. No Grave Tampering/Blocking.
+You are required to allow players access to their grave after you kill them. Blocking their grave or killing a player before they are able to recover their items is a punishable offence. Once they have their items you can continue on as normal. Although you cannot actively stop a player retrieving their items you have no obligation to actively help them get them back. **This rule does not apply if you have agreed before hand (with evidence) that the winner will keep the other's stuff.**
+- 1st offence : Warning.
+- 2nd offence : Temporary ban. (Duration may vary)
+- 3rd offence : Permanent ban.
+
+---
+
+##### 17. No bypassing PvP toggles.
+Players who have their PvP set to off are off limits for any sort of hostile interaction. This includes but is not limited to: Setting them on fire, pushing them in or putting lava under them or knocking them off a high ledge. 
+- 1st offence : Warning.
+- 2nd offence : Temporary ban. (Duration may vary)
+- 3rd offence : Permanent ban.
