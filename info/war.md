@@ -28,3 +28,11 @@ Staff involvement will be minimal, but it is vital to ensure that each side stic
 Sieges are an event possible only during a major wars where players can cause havoc on their opponent’s town. To avoid mass destruction on Earth, a copy of the players’ towns will be put in a separate world and you will be able to blow things up to your heart’s content!
 These must also be scheduled with staff to keep things running smoothly.
 Sieges are purely cosmetic so don’t worry about defending/fortifying your town as wars are still only determined through PVP.
+
+### Conventions of War
+While engaging in war please be mindful of the following rules and guidelines to ensure a fun experience for both sides:
+- Do not spawn kill.
+- Do not grave block.
+- Allow enemies to recover their gear before engaging again.
+- Do not combat log.
+- Do not intentionally sabotage your own side by allowing people
