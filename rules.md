@@ -142,7 +142,7 @@ Any machines that are found to be causing an unnatural or unnecessary amount of 
 ---
 
 ##### 16. No Grave Tampering/Blocking.
-You are required to allow players access to their grave after you kill them. Blocking their grave or killing a player before they are able to recover their items is a punishable offence. Once they have their items you can continue on as normal. Although you cannot actively stop a player retrieving their items you have no obligation to actively help them get them back. **This rule does not apply if you have agreed before hand (with evidence) that the winner will keep the other's stuff.**
+You are required to allow players access to their grave after you kill them. Blocking their grave or killing a player before they are able to recover their items is a punishable offence. Once they have their items you can continue on as normal. Although you cannot actively stop a player retrieving their items you have no obligation to actively help them get them back. **This rule does not apply if you have agreed before hand (with evidence) that the winner will keep the other's stuff, or you are actively in a war against the player killed.**
 - 1st offence : Warning.
 - 2nd offence : Temporary ban. (Duration may vary)
 - 3rd offence : Permanent ban.
