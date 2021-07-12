@@ -39,6 +39,7 @@ You automatically begin to sober after drinking but can speed up the process by 
 - Gin
 - Green Absinthe
 - Mead
+- Minosas
 - Mushroom Vodka
 - Potato Soup
 - Red Wine
