@@ -11,13 +11,13 @@ Do not drag or pressure unwilling towns or nations into your wars, conflict is c
 
 ### Minor wars
 To settle small conflicts or disputes, players may declare a minor war against another town or nation.
-These wars are determined through a PVP battle where the winner is chosen through a points system and gets 25% of the losing towns bank balance.
+These wars are determined through a PvP battle where the winner is chosen through a points system and gets 25% of the losing towns bank balance.
 Each town begins a war with points equalling to their number of residents (e.g. 8 residents in the town = 8 points)
 Whenever a resident of one of the battling towns is killed, that town loses a point.
 First team to 0 points loses.
 Minor wars can be done anytime independently by using `/war declare [Town Name]`.
-To end a war prematurely with a white peace the command `/war end [Town Name]` can be used. Wars that end with a white peace have no winners, and as such no money is gained or lost.
-Use `/war status` list to see all active wars and their progress.
+To end a war prematurely by surrenderring the command `/war end [Town Name]` can be used. Surrendering will force your town to lose and the money will be lost instantly. 
+Use `/war status` list to see any active wars you are participating in and their progress.
 
 ### Major wars
 These wars must be more structured as there is more to lose, so both parties must be consenting and aware of the consequences of going to war. Negotiations for war must be done through creating a #war-declaration ticket on Discord, where the town's mayor sets out their terms.
@@ -32,7 +32,6 @@ Sieges are purely cosmetic so don’t worry about defending/fortifying your town
 ### Conventions of War
 While engaging in war please be mindful of the following rules and guidelines to ensure a fun experience for both sides:
 - Do not spawn kill.
-- Do not grave block.
-- Allow enemies to recover their gear before engaging again.
-- Do not combat log.
-- Do not intentionally sabotage your own side by allowing people
+- Do not combat log. (Combat logging results in a 10k fine to your personal account.)
+- Do not intentionally sabotage your own side by engaging activities that aid the enemy.
+- You may deny players access to their grave if killed during a war, if you can hold your ground until the timer is up it's yours for the taking. 
