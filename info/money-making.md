@@ -14,3 +14,6 @@ Voting is a great way to gain money and experience. Once a day, use `/vote` and 
 
 ### Market Place
 To put items up for sale, use `/mp` to access the Market Place. Here you can see items that are currently up for sale and for how much. This is a good way to get an understanding of pricing and what items are in demand. When you are ready to sell just hold the item in your hand and do `/mp sell [Price] [Amount]`. To claim your money go to `/mp my` and click the Golden Apple.
+
+### Chat Games
+Chat games appear randomly throughout your play session. Compete against everyone online to be the first to complete the task assigned. These can range from breaking blocks to eating a certain food. The first person to do so will earn some money so be quick!
