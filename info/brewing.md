@@ -1,10 +1,10 @@
 ---
 title: Brewing
-description: Guide for new players on how to start making alcohol
+description: Guide for new players on how to start making alcohol.
 order: 5
 ---
 # Brewing
-On United Lands you can brew more than just potions. In this guide we will show you how the mechanics to create all the various alcohols included in the server. There will be no recipes listed as drink exclusivity is what brings them value! Making a drink requires many steps and messing one up could lead to a lower quality brew down the line. Some recipes may not require every method here so experiment on what does and doesn't work.
+On United Lands you can brew more than just potions. In this guide we will show you how the mechanics to create all the various alcohols included in the server. There will be no recipes listed (apart from the example) as exclusivity is what brings them value! Making a drink requires many steps and messing one up could lead to a lower quality brew down the line. Some recipes may not require every method here so experiment on what does and doesn't work.
 
 ## Fermenting
 Generally the first step on creating alcohol. Simply place a cauldron over a heat source (fire, lava, etc) and fill it with water. From there you can add ingredients by right clicking the cauldron. After waiting a few minutes to allow everything to ferment you can then collect the product with glass bottles. You can use a clock on the cauldron to know exactly how long everything has been fermenting inside.
@@ -14,6 +14,11 @@ Most recipes don't need distillation. To distill something, add the fermented bo
 
 ## Ageing
 To age a drink you must put it inside a barrel. Regular minecraft barrels aren't large enough to hold such volumes of liquids so a larger barrel must be constructed. A small barrel can be made out of 8 wooden stairs in a barrel shape, whereas a large barrel is made from the following: 5 fences, 16 wooden stairs, and 18 wooden planks. To assign the objects as a barrel put a sign that says `Barrel` on the top line. To open them just right click and you can insert any drink inside of it. You must age all drinks inside these barrels and for every in game day they are in the barrel the alcohol is aged 1 year. You can create barrels using all types of wood, but the exact type of wood may affect the quality of the brew. You can lock your barrels by typing the command `/cprivate` and right clicking the barrel sign.
+
+## Example Recipe (Beer)
+- Fermenting: 6 wheat for 8 minutes.
+- Distilling: No
+- Ageing: 3 years in any wood-type.
 
 ## Drinking
 Every drink has an associated "alcohol" value, This varies depending on the type and quality of the drink. The higher the alcoholic value the more drunk you will become when consuming said drink. Being drunk can include the following effects:
