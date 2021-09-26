@@ -14,3 +14,6 @@ We have several ways for players to earn money. The main source of income for mo
 
 ## How do I make alcohol?
 A Brewing Guide can be found on the website that takes you step-by-step over each component needed to create a good drink. We only provide 1 recipe (Beer) as an example, but the rest need to be figured out yourself. Part of what makes alcohol valuable on United Lands is it's exclusivity - it's difficult to make a high quality brew. Recipes can be bought from other players or created through experimentation, so look for what works! 
+
+## Why can't I mine below y45 on Earth?
+In short, it is to ensure the longevity of the Earth map and prevent a reset for as long as possible. Earth is a custom map with custom ore generation, it is far, far, far more densely packed than that of a vanilla map and as such can cause major problems for a server's economy. To prevent this we have implemented a simple rule. If your town does not own the land, it cannot mine it. 
