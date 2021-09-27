@@ -12,6 +12,9 @@ Since Towny is our main focus it's generally recommended to start or settle in a
 ## How do I earn money?
 We have several ways for players to earn money. The main source of income for most people are jobs. You can see what's available with `/jobs browse` then do `/jobs join [Job Name]` when you've found a job you like. Other methods include doing a referral, voting, trading with players, or winning chat games. If you want a more in-depth explanation check our Money Making guide.
 
+## How do I claim land?
+Our primary method of land protection is Towny, so to claim land you'll need to start a town. A full guide is available on the dedicated page, but in brief: First gather 8,000G and then go to the place you want to settle. Run the command `/t new [Town Name]`. Once your town is founded you must deposit any extra money you have with `/t deposit [Amount]` to ensure it doesn't go bankrupt. You can add residents with `/t add [Username]` and claim more land with `/t claim`.
+
 ## How do I make alcohol?
 A Brewing Guide can be found on the website that takes you step-by-step over each component needed to create a good drink. We only provide 1 recipe (Beer) as an example, but the rest need to be figured out yourself. Part of what makes alcohol valuable on United Lands is it's exclusivity - it's difficult to make a high quality brew. Recipes can be bought from other players or created through experimentation, so look for what works! 
 
