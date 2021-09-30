@@ -20,3 +20,6 @@ A Brewing Guide can be found on the website that takes you step-by-step over eac
 
 ## Why can't I mine below y45 on Earth?
 In short, it is to ensure the longevity of the Earth map and prevent a reset for as long as possible. Earth is a custom map with custom ore generation, it is far, far, far more densely packed than that of a vanilla map and as such can cause major problems for a server's economy. To prevent this we have implemented a simple rule. If your town does not own the land, it cannot mine it. 
+
+## How do I enable the server resource pack?
+If you didn't get prompted upon first login or chose not to enable it here you can see how to turn it on manually. First, go to your "Server Listings" in the "Multiplayer"tab on the main menu. Then click on United Lands and then select "Edit" in the bottom left corner. In the editor, change your "Server Resource Pack" to "Enabled" or "Prompt". Enabled will automatically download the resource packs when you join a lobby and Prompt will ask you before the download begins. To save your settings, hit "Done".
