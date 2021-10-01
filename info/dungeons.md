@@ -6,23 +6,27 @@ order: 8
 # Dungeons
 Dungeons are the stand-out mechanic of United Lands, these are expansive and in-depth missions that provide unique mechanics and interesting rewards. Each dungeon has it's own story and different style of play with an intense and difficult boss battle. They are the true endgame experience and are extremely rewarding.
 
+To start any dungeon you must first access the panel with `/dungeons`. From there you can select any of the dungeons you'd like to play. After selecting a Dungeon you will be presented with the party screen. From here you can join up to 10 slots for the Dungeon, so different groups can play at the same time. You can tag along with a friend and join their party through one of the open slots, or start your own party by pressing the button in the bottom right. Once you're in the Dungeon lobby find the start sign and right click it when you're ready to play! 
+
 ## Ainu Gold
 The first dungeon introduced, it takes place in an Ainu village far up in the Hokkaido mountains. You are in search of the fabled Ainu Gold, but the 7th Division of the Imperial Japanese Army have beaten you there! Fight your way through the occupied Ainu village and take the missing tattooed skins from the slain Officers. Using them piece together the map that will show you to the location of the gold. Inside you will face one of the most intense and exhilirating boss battles you'll ever experience. It's recommended to have at least 3 fully maxed out Netherite friends if you even want to stand a chance against Lt. Tsurumi, the final boss. Defeat him and the gold is yours, along with whatever loot you pick up along the way.
 
 ### Dungeon Rewards
 The Ainu Gold dungeon brings 12 new obtainable custom items, all with their own features and abilities. For more information on what they are and do see our Custom Items page. Beating the dungeon gives a guaranteed money reward of 15,000G from finding all the gold. Drop chances can be found below for each item:
 #### Main Dungeon
-- Type 30 Rifle: x% from Rangers
-- Ammo Pouch: x% from Rangers
-- Tasiro: x% from Soldiers and Rangers
-- Karimpaunku: x% from Soldiers and Rangers
-- Poisoned Ay: x% from Soldiers and Rangers
-- Type 30 Bayonet: x% from Soldiers
-- Gunto Sword: x% from Officers
+- Type 30 Rifle: 5% from Rangers
+- Ammo Pouch: 10% from Rangers
+- Tasiro: 5% from Soldiers, Rangers, and Officers
+- Karimpaunku: 4% from Soldiers, Rangers and Officers
+- Poisoned Ay: 12% from Soldiers, Rangers and Officers
+- Type 30 Bayonet: 5% from Soldiers
+- Gunto Sword: 5% from Officers
+- Ekimne Kuwa: 3.5% from Soldiers, Rangers, and Officers
 
 #### Lt. Tsurumi Fight
-- Borchadt C-93: x% 
-- Dango: x%
-- Gunto Sword: x%
-- Tsurumi's Headplate: x% from Lt. Tsurumi
-- [Golden] Prefix: x%
+- Borchadt C-93: 5% 
+- Dango: 10%
+- Gunto Sword: 5%
+- Tsurumi's Headplate: 5%
+- [Golden] Prefix: 5%
+- Ammo Pouch: 10%
