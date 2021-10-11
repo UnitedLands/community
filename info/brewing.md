@@ -35,6 +35,7 @@ You automatically begin to sober after drinking but can speed up the process by 
 
 ## List of Alcohols
 - Absinthe
+- Andrew's Chicken Soup
 - Apple Cider
 - Apple Liqour
 - Beer
@@ -48,6 +49,7 @@ You automatically begin to sober after drinking but can speed up the process by 
 - Mushroom Vodka
 - Potato Soup
 - Red Wine
+- Sake
 - Spicy Rum
 - Stella Artois
 - Sweet Apple Mead
