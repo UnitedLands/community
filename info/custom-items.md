@@ -3,7 +3,7 @@ title: Custom Items
 description: Index for all of United Lands' custom items and their function.
 order: 7
 ---
-# Trees
+# Agriculture
 To regrow these trees, obtain saplings that drop from their decaying leaves.
 
 ## Ancient Oak
@@ -20,6 +20,9 @@ A birch tree overgrown with mushrooms, drops Bracket mushrooms from broken logs.
 
 ## Flowering Acacia
 A new acacia tree variant that grows many flowers, including the mimosa flower that drops from it's leaves.
+
+## Rice
+A simple crop that can be grown and harvested for raw rice. Raw rice can be smelted into cooked rice that is used for several things. Rice seeds can be obtained by breaking grass or harvesting fully grown rice.
 
 
 # Food
@@ -38,6 +41,12 @@ This sweet treat can be crafted using 1 wheat, sugar and stick in any configurat
 
 ## Citatap
 This processed raw meat is great for survival situations. You can craft it using any 1 of your raw beef, pork, mutton or rabbit. Due to this meat being prepared it feeds slightly more than the untouched raw version, so make sure to take the time to convert your raw meat if you're in trouble!
+
+## Rice Bowl
+Made by combining cooked rice with a wooden bowl. It's a quick and simple meal, similar to mushroom stew.
+
+## Nigiri
+Nigiri is a food item that can be made by combining any raw fish with cooked rice.
 
 # Tools
 
