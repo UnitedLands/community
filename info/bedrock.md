@@ -8,7 +8,7 @@ United Lands is open to everyone who plays Minecraft, both Java and Bedrock acco
 We are aware of some issues that we cannot solve due to the nature of Bedrock so we cannot fix them until Mojang themselves do. These include but are not limited to:
 - When warping, the GUI will not close until you've teleported.
 - Gradients not working due to Hex values being unsupported. 
-- GUI's looking really weird as glass panes and player heads look different than they do in Java.
+- GUI's look really weird as glass panes and player heads look different than they do in Java.
 - Invisible item frames are visible as they do not currently exist in Bedrock edition.
 - Higher ping.
 - Custom items not showing custom textures.
