@@ -24,15 +24,6 @@ These worlds will reset every month so therefore there will not be restrictions 
 ## Chest Protection
 United Lands uses Towny as it's primary means of land protection, but we also use LWC to claim more specific items such as chests and doors. These offer a extra layer of privacy when protecting yourself within your town. Locked blocks can only be accessed by the lock owner and specified parties. To lock a block simply run the command `/cprivate` and hit the block you'd like to protect. To unlock a block you own do `/cpublic` and punch it. To toggle automatic block-locking on or off do `/cnolock`.
 
-## Greylisting
-Greylisting is a mechanic we use to help us identify the group of players who are willing to stick around and help our server grow. Applying to the Greylist is simple: All you need to do is upvote and comment on one or both of our forum posts. The comment must contain your username, age and 1 thing you love about the server. Being accepted onto the Greylist can give you 5,000G per accepted application. Links to the posts can be seen below:
-
-### Minecraft Forum
-https://www.minecraftforum.net/forums/servers-java-edition/pc-servers/3121386-united-lands-towny-earth-war
-
-### Planet Minecraft
-https://www.planetminecraft.com/forums/minecraft/servers/united-lands-towny-earth-war-643354/
-
 ## Custom Recipes
 
 ### Sporeblossoms
