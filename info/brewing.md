@@ -7,7 +7,7 @@ order: 5
 On United Lands you can brew more than just potions. In this guide we will show you how the mechanics to create all the various alcohols included in the server. There will be no recipes listed (apart from the example) as exclusivity is what brings them value! Making a drink requires many steps and messing one up could lead to a lower quality brew down the line. Some recipes may not require every method here so experiment on what does and doesn't work.
 
 ## Fermenting
-Generally the first step on creating alcohol. Simply place a cauldron over a heat source (fire, lava, etc) and fill it with water. From there you can add ingredients by right clicking the cauldron. After waiting a few minutes to allow everything to ferment you can then collect the product with glass bottles. You can use a clock on the cauldron to know exactly how long everything has been fermenting inside.
+Generally the first step in creating alcohol. Simply place a cauldron over a heat source (fire, lava, etc) and fill it with water. From there you can add ingredients by right clicking the cauldron. After waiting a few minutes to allow everything to ferment you can then collect the product with glass bottles. You can use a clock on the cauldron to know exactly how long everything has been fermenting inside.
 
 ## Distilling
 Most recipes don't need distillation. To distill something, add the fermented bottle into a brewing stand then add glowstone dust to the top slot to act as a filter. The dust will not be consumed.
