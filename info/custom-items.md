@@ -7,7 +7,7 @@ order: 7
 To regrow these trees, obtain saplings that drop from their decaying leaves.
 
 ## Ancient Oak
-A rare oak tree varient that grows enchanted golden apples! These trees do not reproduce and the only way to obtain its seeds are from the vote crate.
+A rare oak tree variant that grows enchanted golden apples! These trees do not reproduce and the only way to obtain its seeds are from the vote crate.
 
 ## Pine Tree
 A spruce tree variant that drops pine cones. 
@@ -65,10 +65,10 @@ Rifle from the Ainu Gold dungeon that is dropped by the Ranger enemies. This wea
 This is a very special pistol that is sometimes dropped by the Ainu Gold dungeon boss Lt. Tsurumi. It's a semi automatic pistol that has very little delay between shots and a good amount of damage per hit. Ammunition for this weapon can be found by consuming an "Ammo pouch", using one bullet per shot. 
 
 ## Tasiro
-An Ainu hunting knife dropped by soldiers during the Ainu Gold dungeon. This knife is made unique due to the special enchant "Looting IV" that only it posseses. It has the same stats as a diamond sword and can be enchanted.
+An Ainu hunting knife dropped by soldiers during the Ainu Gold dungeon. This knife is made unique due to the special enchant "Looting IV" that only it possesses . It has the same stats as a diamond sword and can be enchanted.
 
 ## Karimpaunku
-A high quality Ainu bow that is dropped by the soldiers in the Ainu Gold dungeon. Thanks to it's amazing craftsmanship it posseses higher than normal stats when compared to a regular bow. 
+A high quality Ainu bow that is dropped by the soldiers in the Ainu Gold dungeon. Thanks to it's amazing craftsmanship it possesses  higher than normal stats when compared to a regular bow. 
 
 ## Poisoned Ay
 A traditional arrow used by the Ainu when hunting. It has an intense poison that does a lot of damage to enemies in a very short amount of time. Dropped by soldiers during the Ainu Gold dungeon.
@@ -94,7 +94,7 @@ Pine cones can be used as projectiles to throw at enemies and deal some damage.
 Used to brew the alcoholic drink known as "Minosas". **You cannot place these flowers.**
 
 ## Ammo Pouch
-This ammo pouch is occassionally dropped by Rangers during the Ainu Gold dungeon. Consuming one refills 5 cartridges in your ammo bar, allowing you to fire your weapons.
+This ammo pouch is occasionally  dropped by Rangers during the Ainu Gold dungeon. Consuming one refills 5 cartridges in your ammo bar, allowing you to fire your weapons.
 
 ## Tattooed Skins and Maps
-Tattooed peices of human skin used to determine the location of the Ainu Gold. Only obtainable during the Ainu Gold dungeon and not able to be brought outside of it.
+Tattooed pieces of human skin used to determine the location of the Ainu Gold. Only obtainable during the Ainu Gold dungeon and not able to be brought outside of it.
