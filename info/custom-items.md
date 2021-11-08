@@ -4,7 +4,7 @@ description: Index for all of United Lands' custom items and their function.
 order: 7
 ---
 # Agriculture
-To regrow these trees, obtain saplings that drop from their decaying leaves.
+To regrow the trees, obtain saplings that drop from their decaying leaves.
 
 ## Ancient Oak
 A rare oak tree variant that grows enchanted golden apples! These trees do not reproduce and the only way to obtain its seeds are from the vote crate.
