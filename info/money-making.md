@@ -13,6 +13,16 @@ The bulk of jobs information is at Spawn, which you can access by reading the ho
 Voting is a great way to gain money, experience and rare items. Once a day, use `/vote` and vote on each of our 6 sites. You earn a Vote Key from each successful vote, these keys let you access the Vote Crate at Spawn, where you can win rare prizes! Voting is an amazing way to help grow the server too, so make sure to vote every day so we can reach more and more people.
 Every 75 votes all online players get a special key, this is known as a "Vote Party". These special VoteParty Keys grant even rarer items, some unobtainable in survival! So make sure to vote frequently to have the best chance of getting one.
 
+## Greylisting
+Greylisting is a mechanic we use to help us identify the group of players who are willing to stick around and help our server grow. Applying to the Greylist is simple: All you need to do is upvote and comment on one or both of our forum posts. The comment must contain your username, age and 1 thing you love about the server. Being accepted onto the Greylist can give you 5,000G per accepted application. Links to the posts can be seen below:
+
+### Minecraft Forum
+https://www.minecraftforum.net/forums/servers-java-edition/pc-servers/3121386-united-lands-towny-earth-war
+
+### Planet Minecraft
+https://www.planetminecraft.com/forums/minecraft/servers/united-lands-towny-earth-war-643354/
+
+
 ### Market Place
 United Lands uses a player-led economy, that means there are no Admin shops. Everything you buy and sell also involves another player. To put items up for sale, use `/mp` to access the Market Place. Here you can see items that are currently up for sale and for how much. This is a good way to get an understanding of pricing and what items are in demand. When you are ready to sell just hold the item in your hand and do `/mp sell [Price] [Amount]`. To claim your money go to `/mp my` and click the Golden Apple.
 
