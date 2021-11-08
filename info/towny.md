@@ -8,6 +8,13 @@ Towny is the plugin we use that allows players to make and join towns/nations, a
 
 If you are unfamiliar with Towny mechanics, joining a pre-existing town may be useful so you can familiarise yourself with how it all works before potentially creating your own with `/t new [Name]` (make sure you are stood where you want your town to be). Most towns advertise on our Discord in **#town-adverts** so having a look at that channel will make joining a new town far easier. To invite players use the command `/t invite [Name]` Each town is able to claim more land with every 3 new residents, or they cost 800G to buy one upfront per chunk. If you are going to create a town, please travel a fair amount away from the continental spawns. To claim land use `/t claim` and to buy extra chunks do `/t buy bonus [Amount]`. You can return to your own at any time with `/t spawn`, or visit another public town with `/t spawn [Name]`.
 
+### Camps
+It may be a while before you're ready to start a town, so joining one is recommended at the start. However, we don't want to force people into joining anyone if that's not what they want to do. If you plan on staying solo the entire time you can use the *Towny Campfire* you start with to create a temporary 24 hour 1 chunk protection. This works exactly like a town claim bar a few differences:
+- It expires after 24 hours.
+- It's limited to 1 chunk.
+- Only players you've added as a friend, `/res friend add [username]` can interact with the camp.
+- The campfire owner can found a town upon the camp chunk.
+
 ### Upkeep
 Towns cost 8,000G to start and the upkeep is dependant on the amount of land it owns. For every chunk of land claimed with `/t claim` 15G is added to your upkeep per day.  You may buy up to 100 bonus plots with `/t buy bonus [Amount]` for 800G each. Upon creating a town the first thing you should do is deposit some money with `/t deposit [Amount]`. You can later withdraw funds with `/t withdraw [Amount]` if needed. You may only deposit or withdraw funds from a Home or Bank plot. Taxes are collected every 24 real-life hours. If a town fails to pay it's upkeep it becomes a ruined state. In this state it cannot function like a normal town but still exists. Any resident can reclaim the town for 8,000G and return it to normal. If a town is not reclaimed after 72 hours it is deleted. Towns in ruin are able to be raided as their protections are lifted and all locks are broken, so try to ensure it doesn't happen.
 
