@@ -25,7 +25,7 @@ In short, it is to ensure the longevity of the Earth map and prevent a reset for
 If you didn't get prompted upon first login or chose not to enable it here you can see how to turn it on manually. First, go to your "Server Listings" in the "Multiplayer"tab on the main menu. Then click on United Lands and then select "Edit" in the bottom left corner. In the editor, change your "Server Resource Pack" to "Enabled" or "Prompt". Enabled will automatically download the resource packs when you join a lobby and Prompt will ask you before the download begins. To save your settings, hit "Done".
 
 ## How do I claim more land?
-To claim more land with `/t claim` you need to increase your maximum *Town Size*. There are several ways to do this:
+To claim more land with `/t claim`, you need to increase your maximum *Town Size*. There are several ways to do this:
 - Having more residents in your town,
 - Joining or forming a *Nation*,
 - Buying *plots* with `/t buy bonus [Amount]` for 800G each,
