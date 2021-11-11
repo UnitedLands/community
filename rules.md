@@ -160,5 +160,6 @@ Players who have their PvP set to off are off limits for any sort of hostile int
 
 ##### 18. No intentional destruction of the Earth map.
 For the same reasons we restrict Earth mining we must also limit what activities may be done aboveground. We do not intend to ever reset the map so ensuring it's as well kept as possible is pivotal for a positive experience. Things you can not do include, but are not limited to: Creating forest fires, flooding areas and large scale quarrying. Exceptions can be made for terraforming where a new structure is put in it's place. Towns are also exempt of this rule. 
-- 1st offence : Temporary ban. (Duration may vary)
-- 2nd offence : Permanent ban.
+- 1st offence : Warning.
+- 2nd offence : Temporary ban. (Duration may vary)
+- 3rd offence : Permanent ban.
