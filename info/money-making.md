@@ -27,7 +27,7 @@ https://www.planetminecraft.com/forums/minecraft/servers/united-lands-towny-eart
 United Lands uses a player-led economy, that means there are no Admin shops. Everything you buy and sell also involves another player. To put items up for sale, use `/mp` to access the Market Place. Here you can see items that are currently up for sale and for how much. This is a good way to get an understanding of pricing and what items are in demand. When you are ready to sell just hold the item in your hand and do `/mp sell [Price] [Amount]`. To claim your money go to `/mp my` and click the Golden Apple.
 
 ### Chat Games
-Chat games appear randomly throughout your play session. Compete against everyone online to be the first to complete the task assigned. These can range from breaking blocks to eating a certain food. The first person to do so will earn some money so be quick!
+Chat games appear randomly throughout your play session, roughly every 15 minutes. Compete against everyone online to be the first to finish the task, these can range from breaking blocks to answering questions. The first person to do so will earn some money, prizes can range anywhere from 100G to 800G - so be quick! You can check the ongoing game with `/cb current`.
 
 ### Referrals
 Do /ref in game when you join and tell us how you found the server. Doing this will give you 1,000G (and 500G to the friend named if you heard from them). This is a great way to earn a quick amount of money and helps us know more about our players.
